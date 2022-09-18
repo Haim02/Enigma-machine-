@@ -1,0 +1,152 @@
+{
+  "1": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "2": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "3": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "4": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "5": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "6": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "7": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "8": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "9": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "10": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "11": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "12": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+"13": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "14": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "15": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "16": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "17": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "18": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "19": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "20": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "21": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "22": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "23": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "24": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+"25": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "26": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "27": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "28": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  },
+  "29": {
+    "rotors": ["I", "II", "III"],
+    "settings": "ABC",
+    "positions": "DEF"
+  },
+  "30": {
+    "rotors": ["II", "III", "IV"],
+    "settings": "JBK",
+    "positions": "TUV"
+  }
+}
